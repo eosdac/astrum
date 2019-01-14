@@ -206,6 +206,30 @@
                     "width": "half"
                 }
             ]
+        },
+        {
+            "name": "Templates",
+            "title": "Templates",
+            "components": [
+                {
+                    "group": "Templates",
+                    "name": "Announcements",
+                    "title": "Announcements",
+                    "width": "half",
+                    "options": {
+                        "disable_code_sample": true
+                    }
+                },
+                {
+                    "group": "Templates",
+                    "name": "annnouncements-2",
+                    "title": "Announcements II",
+                    "width": "half",
+                    "options": {
+                        "disable_code_sample": true
+                    }
+                }
+            ]
         }
     ],
     "version": "1.9.5"
