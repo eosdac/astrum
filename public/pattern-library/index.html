@@ -48,9 +48,11 @@
         <!-- Font Libraries -->
         <link rel="stylesheet" v-if="font_libraries.google_web_fonts" :href="font_libraries.google_web_fonts">
         <link rel="stylesheet" v-if="font_libraries.typography_web_fonts" :href="font_libraries.typography_web_fonts">
+	<!--
         <ndpl-script :script="'https://use.typekit.net/' + font_libraries.typekit_code + '.js'" v-if="font_libraries.typekit_code" inline-template>
             <script :src="script" @load="loadTypekit"></script>
         </ndpl-script>
+	-->
 
         <!-- Custom stylesheets are loaded from the assets.css array in data.json -->
         <link rel="stylesheet" v-for="css in assets.css" :href="css">
