@@ -233,7 +233,8 @@
                     </g>
                 </g>
                 <g transform="matrix(1,0,0,1,116.071,80.1426)">
-                    <text x="55px" y="197.5px" style="font-family:'Roboto-Medium', 'Roboto';font-weight:500;font-size:90px;fill:white;">BlockPr<tspan x="367.671px " y="197.5px ">o</tspan>duction Meeting</text>
+                    <text x="55px" y="197.5px" style="font-family:'Roboto-Medium', 'Roboto';font-weight:500;font-size:90px;fill:white;">BlockPr<tspan x="367.671px " y="197.5px ">o</tspan>duction</text>
+                    <text x="743.447px" y="197.5px" style="font-family:'Roboto-Thin', 'Roboto';font-weight:250;font-size:90px;fill:white;">Meeting</text>
                 </g>
                 <g transform="matrix(1,0,0,1,104,75)">
                     <text x="64px" y="329px" style="font-family:'Roboto-Medium', 'Roboto';font-weight:500;font-size:64px;fill:white;">Monda<tspan x="262.344px 288.281px " y="329px 329px ">y,</tspan> Januar<tspan x="517.281px " y="329px ">y</tspan> 14, 2:00 PM UT<tspan x="1001.72px " y="329px ">C</tspan></text>
