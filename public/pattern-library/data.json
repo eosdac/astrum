@@ -24,7 +24,7 @@
         "show_version": null,
         "max_width": "1140",
         "titles": {
-            "library_title": "Basic Styleguide V1.1",
+            "library_title": "Basic Styleguide V1.2",
             "pages_title": "Overview",
             "components_title": "Branding"
         }
@@ -32,7 +32,8 @@
     "assets": {
         "css": [
             "https://unpkg.com/bootstrap-material-design@4.1.1/dist/css/bootstrap-material-design.min.css",
-            "assets/style.css"
+            "assets/style.css",
+            "assets/styles-eosdac.css"
         ],
         "js": [
             "https://code.jquery.com/jquery-3.2.1.slim.min.js",
@@ -208,22 +209,22 @@
             ]
         },
         {
-            "name": "Templates",
+            "name": "templates",
             "title": "Templates",
             "components": [
                 {
-                    "group": "Templates",
-                    "name": "Announcements",
+                    "group": "templates",
+                    "name": "announcements",
                     "title": "Announcements",
-                    "width": "half",
+                    "width": "full",
                     "options": {
                         "disable_code_sample": true
                     }
                 },
                 {
-                    "group": "Templates",
-                    "name": "annnouncements-2",
-                    "title": "Announcements II",
+                    "group": "templates",
+                    "name": "video-intro",
+                    "title": "Video-Intro",
                     "width": "half",
                     "options": {
                         "disable_code_sample": true

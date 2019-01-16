@@ -2,6 +2,7 @@
  * Base styles
  * ----------------------------------------//
  */
+ 
 .ndpl-body {
     background-color: #FFF;
     -ms-overflow-style: -ms-autohiding-scrollbar;
@@ -34,7 +35,7 @@
 .ndpl-page,
 .ndpl-nav__title,
 .ndpl-sidebar__title {
-    font-family: 'Open Sans', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif;
+    font-family: 'Roboto', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif;
 }
 
 /* Heading type sizes */
