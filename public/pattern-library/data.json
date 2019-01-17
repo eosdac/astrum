@@ -238,6 +238,24 @@
                     "options": {
                         "disable_code_sample": true
                     }
+                },
+                {
+                    "group": "templates",
+                    "name": "video-thumbnail-1",
+                    "title": "Video-Thumbnail A",
+                    "width": "full",
+                    "options": {
+                        "disable_code_sample": true
+                    }
+                },
+                {
+                    "group": "templates",
+                    "name": "video-thumbnail-2",
+                    "title": "Video-Thumbnail B",
+                    "width": "full",
+                    "options": {
+                        "disable_code_sample": true
+                    }
                 }
             ]
         }
