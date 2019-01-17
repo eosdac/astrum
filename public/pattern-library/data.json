@@ -229,6 +229,15 @@
                     "options": {
                         "disable_code_sample": true
                     }
+                },
+                {
+                    "group": "templates",
+                    "name": "video-outro",
+                    "title": "Video-Outro",
+                    "width": "half",
+                    "options": {
+                        "disable_code_sample": true
+                    }
                 }
             ]
         }
